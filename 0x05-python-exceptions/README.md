@@ -1,38 +1,37 @@
-# :shell: 0x05 - Python, Exceptions :shell:
+# 0x05-python-exceptions
+This directory contains *Exceptions* in  python programming language
+- All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 
-In this project I will be learning about exception handling as well as how to create custom exception types.
+## Tasks
+### 0. Safe list printing
+- Write a function that prints x elements of a list.
 
-## :running: Getting Started
+### 1. Safe printing of an integers list
+- Write a function that prints an integer with "{:d}".format().
 
-* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system reqd.
+### 2. Print and count integers
+- Write a function that prints the first x elements of a list and only integers.
 
-* [Python 3.4](https://www.python.org/download/releases/3.4.0/) - Python Version Used
+### 3. Integers division with debug
+- Write a function that divides 2 integers and prints the result.
 
-## :warning: Prerequisites
+### 4. Divide a list
+- Write a function that divides element by element 2 lists.
 
-* Must have `git` installed
+### 5. Raise exception
+- Write a function that raises a type exception.
 
-* Must have repository cloned
+### 6. Raise a message
+- Write a function that raises a name exception with a message.
 
-* Must have `python3` installed
+### 7. Safe integer print with error message
+- Write a function that prints an integer.
 
-```
-$ sudo apt-get install git
-```
+### 8. Safe function
+- Write a function that executes a function safely.
 
-```
-$ sudo apt-get install python3
-```
+### 9. ByteCode -> Python #4
+- Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
 
-## :blue_book: Authors
-* **Bennett Dixon** - [@BennettDixon](https://github.com/BennettDixon)
-
-## :mag: License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/BennettDixon/holbertonschool-higher_level_programming/blob/master/LICENSE.md) file for details
-
-
-
-## :mega: Acknowledgments
-
-* Holberton School (providing guidance)
+### 10. CPython #2: PyFloatObject
+- Create three C functions that print some basic info about Python lists, Python bytes an Python float objects.
